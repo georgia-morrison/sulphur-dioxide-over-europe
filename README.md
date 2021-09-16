@@ -24,3 +24,6 @@ Using Figure 3 and focusing on the plot for France, we immediately notice there 
 Next, looking at the Great Britain plot, we see a more linear pattern. Emissions appear to be reducing at a fairly constant rate with peaks towards the end of each year. This represents a seasonal pattern within the emissions. Overall, the data for Great Britain follows a far clearer pattern compared to that of France. There is a noticeable gap around 1993-94 where no data was collected.
 
 Finally, the Hungary plot follows a similar pattern to Great Britain but the plots are less tightly grouped. The data followed a loose pattern in the early 1990’s, again showing a seasonal peak at the end of a year. We observe a gap in the data around 1996, before resuming to a stronger version of the pattern seen in previous years. This implies that emissions were much better controlled in the latter half of the 1990’s onwards. Despite this stronger pattern, Figure 3 demonstrates that, on average, the emission rates are higher than before.
+
+### 4 - Conclusions
+Looking at the overall shape of Figure 2, we know that SO2 emissions are slowly decreasing across Europe, with very few outliers. The wave shape as observed in Figure 3 is also apparent in Figure 2, implying that this peak in emission at the end of the year is seen across the majority of stations in Europe.
