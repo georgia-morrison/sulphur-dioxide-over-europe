@@ -27,3 +27,7 @@ Finally, the Hungary plot follows a similar pattern to Great Britain but the plo
 
 ### 4 - Conclusions
 Looking at the overall shape of Figure 2, we know that SO2 emissions are slowly decreasing across Europe, with very few outliers. The wave shape as observed in Figure 3 is also apparent in Figure 2, implying that this peak in emission at the end of the year is seen across the majority of stations in Europe.
+
+---
+## Learnings From this Projects
+The main skill I gained from this report was using log transformations in R. It was interesting to see the effect this had on the shaoe of the data and how it made the points much more readable.
